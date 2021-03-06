@@ -1,0 +1,13 @@
+@import '../node_modules/bootstrap/scss/bootstrap-grid';
+@import '../node_modules/shabnam-font/dist/font-face.css';
+body {
+  direction: rtl;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: 'Shabnam', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
