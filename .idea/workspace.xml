@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e570f18a-486b-4aba-807e-b6abc343eede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/seo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/widgets/blog-card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/widgets/blog-card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/how to become a developer.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/posts/this-world-is-amazing.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/how-to-become-a-developer.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/seo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/page-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/page-2.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/widgets/blog-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/blog-card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/widgets/blog-card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/widgets/blog-card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/posts/how to become a developer.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/how to become a developer.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/content/posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="G:\Traning\Gatsby\web-how\node_modules\prettier" />
@@ -55,13 +41,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Traning\Gatsby\web-how\src\images" />
       <recent name="G:\Traning\Gatsby\web-how\src\content\posts" />
       <recent name="G:\Traning\Gatsby\web-how\src\components\widgets" />
       <recent name="G:\Traning\Gatsby\web-how\src\components" />
       <recent name="G:\Traning\Gatsby\web-how\src" />
-      <recent name="G:\Traning\Gatsby\web-how" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Traning\Gatsby\web-how\src\images" />
+      <recent name="G:\Traning\Gatsby\web-how\src\content\posts" />
       <recent name="G:\Traning\Gatsby\web-how\src\posts\blogs" />
       <recent name="G:\Traning\Gatsby\web-how\src\posts" />
     </key>
@@ -115,8 +103,16 @@
       <option name="presentableId" value="Default" />
       <updated>1614950995064</updated>
       <workItem from="1614950996408" duration="14617000" />
-      <workItem from="1615014683790" duration="9625000" />
+      <workItem from="1615014683790" duration="15675000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1615072409969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615072409969</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

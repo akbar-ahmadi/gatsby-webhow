@@ -1,4 +1,4 @@
-@import '../node_modules/bootstrap/scss/bootstrap-grid';
+@import '../node_modules/bootstrap/scss/bootstrap';
 @import '../node_modules/shabnam-font/dist/font-face.css';
 body {
   direction: rtl;
@@ -6,6 +6,7 @@ body {
   margin: 0;
   font-size: 16px;
   font-family: 'Shabnam', sans-serif;
+  text-align: right;
 }
 
 a{

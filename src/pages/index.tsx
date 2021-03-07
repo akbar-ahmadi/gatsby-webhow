@@ -16,7 +16,7 @@ const IndexPage = ({
       <div className={"row"}>
 
         {data.allMdx.edges.map((item) => (
-          <div className={"col-md-6"}>
+          <div className={"col-md-12"}>
               <BlogCardWidget data={item.node}/>
           </div>
         ))}
@@ -35,9 +35,12 @@ export const pageQuery = graphql`
       node {
         body
         slug
+        excerpt
         frontmatter {
           slug
           title
+          author
+          banner
         }
       }
     }
